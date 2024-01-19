@@ -1,0 +1,14 @@
+package p1;
+
+public class P {
+
+	public void name() {
+		
+	}int a;
+	int b;
+	protected int c;
+	private int d;{
+
+	}
+
+}

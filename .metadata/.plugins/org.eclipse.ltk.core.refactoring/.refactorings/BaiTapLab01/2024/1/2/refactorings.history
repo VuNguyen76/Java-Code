@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;BaiTap1&apos; to &apos;BaiTap&apos;&#x0D;&#x0A;- Original project: &apos;BaiTapLab01&apos;&#x0D;&#x0A;- Original element: &apos;BaiTapLab01/src/BaiTap1&apos;&#x0D;&#x0A;- Renamed element: &apos;BaiTapLab01/src/BaiTap&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;BaiTap1&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;BaiTap1" name="BaiTap" qualified="false" references="true" stamp="1704972771751" textual="false" version="1.0"/>
+</session>

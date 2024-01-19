@@ -1,0 +1,9 @@
+package oop;
+
+public class Student {
+	String name;
+	int age;
+	public void learnjava() {
+		
+	}
+}

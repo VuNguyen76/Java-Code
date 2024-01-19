@@ -1,0 +1,11 @@
+package chapter04;
+
+public class Video30 {
+	public static void main(String[] args) {
+		Product test = new Product();
+
+		Product pr1 = test.nhapThongTin("computer", 200, 10);
+		test.xuatThongTin(pr1);
+		test.getTaxPrice(pr1.getPrice(), pr1.getTax());
+	}
+}

@@ -1,0 +1,9 @@
+package String1;
+
+public class String1 {
+	public static void main(String1[] args) {
+		String[] clubs = null;
+
+		System.out.println("Array is null");
+	}
+}

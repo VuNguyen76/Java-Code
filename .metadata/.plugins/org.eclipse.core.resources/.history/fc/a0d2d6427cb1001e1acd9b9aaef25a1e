@@ -1,0 +1,9 @@
+package oop;
+
+public class Bai1 {
+	String name;
+	int age;
+	public void learnjava() {
+		
+	}
+}

@@ -1,0 +1,13 @@
+package String;
+
+public class String1 {
+    public static void main(String[] args) {
+        String[] clubs = null;
+
+        if (clubs != null) {
+            System.out.println("run here array: " + clubs);
+        } else {
+            System.out.println("Array is null");
+        }
+    }
+}

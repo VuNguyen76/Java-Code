@@ -1,0 +1,11 @@
+package oop;
+
+public class Video23 {
+	public static void main(String[] args) {
+		System.out.println("Run video 23");
+		Student st1 = new Student();
+		st1.name = "Vu";
+		st1.age = 18;
+		System.out.println("Student with name" + st1.name + "and age =" + st1.age);
+	}
+}

@@ -1,0 +1,19 @@
+package oop;
+
+public class Student {
+	// class attributes
+	String name;
+	int age;
+	String fullName;
+	String fistName;
+	String emailAddress;
+
+	// class method
+	void learnjava() {
+		System.out.println("Learn Java with HoiDanIT");
+	}
+
+	String getAge() {
+		return "Hỏi Dân IT";
+	}
+}

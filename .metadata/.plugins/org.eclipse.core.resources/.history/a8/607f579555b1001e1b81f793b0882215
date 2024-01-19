@@ -1,0 +1,12 @@
+package String;
+
+import java.util.Arrays;
+
+public class String1 {
+	public static void main(String[] args) {
+		String[] clubs = { "MU", "Mancity", "Liverpool" };
+		System.out.println("run here array with lenght " + clubs.length);
+		System.out.println("run here array" + Arrays.toString(clubs));
+		System.out.println("run here array : first element = "+ clubs[0]);
+	}
+}
